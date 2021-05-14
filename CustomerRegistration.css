@@ -1,0 +1,71 @@
+img{
+    width: 350px;
+    height: 300px;
+    margin-left: 35%;
+}
+h1{
+    margin-left: 37%;
+    font-family: cursive;
+}
+label {
+    font-family: cursive;
+    margin-left: 35%;
+}
+#Fname{
+    margin-left: 120px;
+    margin-top: 1%;
+    height: 20px;
+    background-color: seashell;
+    font-family: cursive;
+}
+#Uname{
+        margin-left: 125px;
+        height: 20px;
+        background-color: seashell;
+        font-family: cursive;
+}
+#address{
+        margin-left: 140px;
+        background-color: seashell;
+        height: 50px;
+        font-family: cursive;
+}
+input[type=email]{
+    margin-left: 150px;
+    height: 20px;
+    background-color: seashell;
+    font-family: cursive;
+}
+input[type=password]{
+    margin-left: 130px;
+    height: 20px;
+    background-color: seashell;
+    font-family: cursive;
+}
+
+#phone{
+        margin-left: 150px;
+        height: 20px;
+        background-color: seashell;
+        font-family: cursive;
+}
+#btn-create-customer{
+        margin-left: 41.5%;
+        margin-top: 1%;
+        height: 40px;
+        border-radius: 8px;
+        background-color: goldenrod;
+        font-family: cursive;
+    }
+    .bg-img {
+        background-image: url("../images/6.jpeg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: absolute;
+        height: 100%;
+        width :100%;
+      }
+      .container {
+        margin-left: 43.5%;
+        margin-top: 7.5%;
+      }
